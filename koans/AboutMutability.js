@@ -1,3 +1,5 @@
+/* 이 파일은 지금 하셔도 되고 나중에 조금 더 배우고나서 하셔도 됩니다. */
+
 describe("Mutability", function() {
 
   it("object property는 수정 가능합니다.", function () {
