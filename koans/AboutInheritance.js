@@ -1,3 +1,5 @@
+/* 이 파일은 지금 하셔도 되고 나중에 조금 더 배우고나서 하셔도 됩니다. */
+
 function Muppet(age, hobby) {
   this.age = age;
   this.hobby = hobby;
